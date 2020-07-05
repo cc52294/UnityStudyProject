@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SimpleShaderMat
-  m_Shader: {fileID: 4800000, guid: de5bebc8784cbce4baf204ae51c80e3b, type: 3}
+  m_Name: FalseColor
+  m_Shader: {fileID: 4800000, guid: a6fdca70ed6c39b4bba9e1d2c2593a3d, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
