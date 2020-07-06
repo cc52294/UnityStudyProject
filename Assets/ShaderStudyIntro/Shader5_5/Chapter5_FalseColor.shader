@@ -17,7 +17,7 @@
 				v2f o;
 				o.pos = UnityObjectToClipPos(v.vertex);
 				// 可视化法线方向，笔记：用色彩可视化
-				// o.color = fixed4(v.normal * 0.5 + fixed3(0.5, 0.5, 0.5), 1.0);
+				o.color = fixed4(v.normal * 0.5 + fixed3(0.5, 0.5, 0.5), 1.0);
 
 				// 可视化切线方向，笔记：用色彩可视化
 				// o.color = fixed4(v.tangent * 0.5 + fixed3(0.5, 0.5, 0.5), 1.0);
